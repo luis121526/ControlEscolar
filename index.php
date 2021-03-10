@@ -9,6 +9,7 @@
 
 </head>
 <body>
+<h1>ghas</h1>
 	<div class="header">
 		<img src="./imagenes/logo2.png" >
 	</div>
