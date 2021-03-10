@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.logo{
+	background-color:#2E86C1;
+	height: 330px;
+	width: 300px;
+	margin-left: 350px;
+	margin-top: 150px;
+	border-radius: 20px;
+
+}
+.imagen{
+	margin-left: 35px;
+	margin-top: 20px;
+	padding: 10px;
+}
+.login2{
+	height: 330px;
+	width: 450px;
+	background-color: #F0F3F4;
+	margin-left: 660px;
+	margin-top: -330px;
+	border-radius: 20px;
+	padding: 28px;
+	  image-rendering: pixelated;
+
+}
+.header{
+	height: 50px;
+	width:1000px;
+	image-rendering: pixelated;
+
+}
+.opciones{
+	height: 540px;
+	width: 260px;
+	background-color:#0080C0;
+	padding: 5px;
+}
+.logotipo{
+	height: 120px;
+	width: 260px;
+	background-color: #0080C0;
+}
+.itc{
+	height: 150px;
+	width: 250px;
+	background-color: #fff;
+	margin-left: 5px;
+	border-radius: 10px;
+	image-rendering: pixelated;
+
+}
+.ip{
+	height:60px;
+	width: 80px;
+	margin-left: 1130px;
+	background-color: rgba(93, 173, 226,0.5);
+	margin-top: -660px;
+
+}
+.usuario{
+	height:30px;
+	width: 150px;
+	margin-left: 1210px;
+	background-color: rgba(93, 173, 226,0.5);
+	margin-top: -60px;
+
+}
+.cargo{
+	height:30px;
+	width: 150px;
+	margin-left: 1210px;
+	background-color: rgba(93, 173, 226,0.5);
+	margin-top: -0px;
+
+}
+.DatosGen{
+	height: 600px;
+	width: 800px;
+	background-color: rgba(93, 173, 226,0.5);
+	margin-left: 300px;
+	border-radius: 20px;
+	
+}
+
+
+
+
+
