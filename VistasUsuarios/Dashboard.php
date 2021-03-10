@@ -41,14 +41,19 @@
 </div>
 </div>
 <!--datos de usuario-->
+
 <div class="ip">
 	<img src="../imagenes/logo.png" height="50" width="80">
 </div>
 <div class="usuario">
-	<h6>15530378</h6>
+	<?php
+    include '../Logica/conexion.php';
+    session_start();
+    echo "<h6> $_SESSION[usuario]</h6>";
+    ?>
 </div>
 <div class="cargo">
-	<h6>Estudiante</h6>
+
 </div>
 <!--mostrar datos-->
 <div class="DatosGen">

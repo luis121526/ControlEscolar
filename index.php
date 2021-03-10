@@ -16,7 +16,7 @@
 <img src="./imagenes/logo.png" height="250" width="250" class="imagen">
 </div>
 <div class="login2">
-	<form>
+	<form action="./Logica/validacionusuarios.php" method="POST">
 		<h6 class="center">Indroduzca Sus Datos De Acceso</h6>
   <div class="mb-3">
     <input type="text" class="form-control" name="nocontrol" placeholder="No.Control">
